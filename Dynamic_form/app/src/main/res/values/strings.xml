@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dynamic Form</string>
+    <string name="textView">TextView</string>
+    <string name="editTextInput">Input Layout</string>
+    <string name="editText">EditText</string>
+    <string name="textInputLayoutDate">Input Layout </string>
+    <string name="materialSpinner">Material Spinner</string>
+    <string name="button">Button</string>
+</resources>
