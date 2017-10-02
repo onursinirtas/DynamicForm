@@ -122,6 +122,7 @@ public class CreateDynamic extends AppCompatActivity {
         stringList.add("Almanya");
         stringList.add("Avusturya");
         stringList.add("Kanada");
+        stringList.add("Kanada");
 
         ArrayAdapter<String> spinnerAdapter = new ArrayAdapter<>(context, android.R.layout.simple_spinner_item, stringList);
         spinnerAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
